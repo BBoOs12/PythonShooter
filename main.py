@@ -1,3 +1,4 @@
+#Copyright (c) 2024 Blazeboss
 import pygame
 from pygame import *
 import time as tm
